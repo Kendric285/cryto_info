@@ -1,0 +1,4 @@
+I need to print out all the cytpto and types I bought and what they are worth now.
+Show individual transactions and
+
+This will show the specific cypto bought the profits made
